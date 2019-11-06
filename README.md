@@ -41,7 +41,7 @@ After setting up the three models, we need to optimize the hyper-parameters in e
 ## Getting Started
 
 1. Clone this repo (for help see this [tutorial](https://help.github.com/articles/cloning-a-repository/)).
-2. Raw Data could be extracte from [here](https://grouplens.org/datasets/movielens/).
+2. Raw Data could be extracted from [here](https://grouplens.org/datasets/movielens/).
 
     *Please use the “20Ml” data set for education and development (20M ratings; 190 MB)*
     
