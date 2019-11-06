@@ -56,8 +56,8 @@ After setting up the three models, we need to optimize the hyper-parameters in e
 |------|-----------------|
 |[Naili Ding](https://github.com/nding17)| nd2588@columbia.edu        |
 |[Tao Li](https://github.com/Megatao) |     tl2863@columbia.edu    |
-|Chaoyue Zheng |     cz2529@columbia.edu    |
-|Jinglin Chen |     jc5059@columbia.edu    |
+|[Chaoyue Zheng](https://github.com/chaoyuezheng) |     cz2529@columbia.edu    |
+|[Jinglin Chen](https://github.com/Jinglinchen97) |     jc5059@columbia.edu    |
 
 
 ## Contact
