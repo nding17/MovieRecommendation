@@ -15,14 +15,12 @@ The purpose of this project is build a recommendation system for a digital media
 * Matrix Factorization
 * KNN (K nearest neighbors)
 * Hyper-parameter Tuning
-* etc.
 
 ### Technologies
 * Python
 * Pandas, Numpy, jupyter
 * PySpark
 * Surprise
-* etc. 
 
 ## Project Description
 The goal of this project is to build up a recommendation system using various collaborative filtering models to recommend movies to users that they might like. In this project, we have investigated three different recommendation models in order to select the ones that will make accurate and reasonable suggestions to the users. 
