@@ -42,7 +42,7 @@ After setting up the three models, we need to optimize the hyper-parameters in e
 2. Raw Data could be extracted from [here](https://grouplens.org/datasets/movielens/).
 
     *Please use the “20Ml” data set for education and development (20M ratings; 190 MB)*
-3. Check the package requirements necessary to perform the analysis [here](https://github.com/nding17/MovieRecommendation/blob/master/requirements.txt)   
+3. Check the package requirements necessary to perform the analysis [here](https://github.com/nding17/MovieRecommendation/blob/master/requirements.txt).
 4. Movie recommendation could be found [here](https://github.com/nding17/MovieRecommendation).
 5. Write-up/report could also be found [here](https://github.com/nding17/MovieRecommendation).
 
